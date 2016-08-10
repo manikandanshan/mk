@@ -16,15 +16,15 @@ lines
 // You can also use comments to leave out parts of a code line
 $x = 5 /* + 15 */ + 5;
 echo $x;
-echo "helloworld";
-echo "helloworld1";
-echo"raj1fgdsaga";
-echo"manikandan";
-echo"sathiya";
-echo"mani";
-echo"rajkamal";
-echo"kumar";
-echo"raj";
+echo "helloworld!<br>";
+echo "helloworld1!<br>";
+echo"raj1fgdsaga!<br>";
+echo"manikandan!<br>";
+echo"sathiya!<br>";
+echo"mani!<br>";
+echo"rajkamal!<br>";
+echo"kumar!<br>";
+echo"raj!<br>";
 ?>
 
 </body>
