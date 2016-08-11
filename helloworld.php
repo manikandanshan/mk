@@ -25,8 +25,8 @@ echo"mani!<br>";
 echo"rajkamal!<br>";
 echo"kumar!<br>";
 echo"raj!<br>";
-echo<"rajkuma!<br>";
-echo<"rajkuma!<br>";
+echo"rajkuma!<br>";
+echo"rajkuma!<br>";
 ?>
 
 </body>
